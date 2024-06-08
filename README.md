@@ -9,4 +9,6 @@ This is an audio format/extension changer made using Python Speech Recognition
 5. Run the code
 6. Boom your audio file is converted and saved to the opened folder in your compiler
 
+Note- You can use any audio format and convert it to any audio format
+
 For any queries contact [Owner](gargv1074@gmail.com)
